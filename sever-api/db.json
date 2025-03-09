@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "c83c1cf7-ecc7-4aab-a94f-e8d69451770a",
+      "name": "Mukhesh DN",
+      "email": "daneelakanta@gmail.com"
+    },
+    {
+      "id": "a4f704ba-7658-48a2-a7e6-7fb3acd55a5e",
+      "name": "kiran",
+      "email": "mukeshdn2005@gmail.com"
+    },
+    {
+      "id": "507f0957-85a7-4477-9023-5787105e11c1",
+      "name": "sri guru s",
+      "email": "mukheshdn.cs23@bmsce.ac.in"
+    }
+  ]
+}
